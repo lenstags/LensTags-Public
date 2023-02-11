@@ -6,14 +6,23 @@
     <a href="https://lenster.xyz/u/lenstags.lens">
         <img src="https://lens-badge.vercel.app/api/badge/lenstags.lens" alt="Lens">
     </a>
+ <a href="https://github.com/lenstags/LensTags-Public/stargazers">
+        <img src="https://img.shields.io/github/stars/lenstags/LensTags-Public" alt="Stargazers">
+    </a>
 <a href="https://twitter.com/lenstags">
         <img src="https://img.shields.io/twitter/follow/lenstags?label=LensTags&style=flat&logo=twitter&color=1DA1F2" alt="LensTags Twitter">
     </a>
 </div>
+<div align="center">
+    <br>
+    <a href="https://lenstags.xyz"><b>LensTags.xyz »</b></a>
+    <br><br>
+    
+</div>
 
 ## About
 
-LensTags is a community-driven platform for organizing and sharing online resources, helping users to discover new information and perspectives, and connect with others
+[LensTags](https://lenstags.xyz) is a community-driven platform for organizing and sharing online resources, helping users to discover new information and perspectives, and connect with others
 
 ## Cool Features
 > LensTags allows the user to save, organize and discover content. In order to access the functionalities of our platform you must have a Lens user. It should be noted that the creation of users in Lens Protocol is still closed and is slowly being opened to the public.
@@ -44,7 +53,9 @@ Once logged in to the platform you will be able to:
 
 ## Contributors
 
-See the list of [contributors](https://github.com/lenstags/lenstags/graphs/contributors) who participated in this project.
+See the list of [contributors](https://github.com/lenstags/LensTags-Public/graphs/contributors) who participated in this project.
+
+<img src="https://contrib.rocks/image?repo=lenstags/LensTags-Public" />
 
 ## Contact
 
