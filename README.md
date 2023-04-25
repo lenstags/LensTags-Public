@@ -25,31 +25,35 @@
 [LensTags](https://lenstags.xyz) is a community-driven platform for organizing and sharing online resources, helping users to discover new information and perspectives, and connect with others
 
 ## Cool Features
+
 > LensTags allows the user to save, organize and discover content. In order to access the functionalities of our platform you must have a Lens user. It should be noted that the creation of users in Lens Protocol is still closed and is slowly being opened to the public.
-Those who have a Lens account will be able to log in by connecting with their wallet.
+> Those who have a Lens account will be able to log in by connecting with their wallet.
 
 Once logged in to the platform you will be able to:
-* **Share content.** Publications are the lifeblood of the Lens Protocol. They are all of the original content, comments, and mirrors produced by creators, curators, and users alike. Publications come in three primary types: posts, comments, and mirrors. Posts are the base object, with mirror and comment providing additional functionality.
 
-* **Discover and use Tags.** When a user posts a publication they will be able to add Tags to it. When exploring through the feed people can filter the posts selecting the tags of their interest. Stay up to date with what you are interested in by filtering by Tags!
+- **Share content.** Publications are the lifeblood of the Lens Protocol. They are all of the original content, comments, and mirrors produced by creators, curators, and users alike. Publications come in three primary types: posts, comments, and mirrors. Posts are the base object, with mirror and comment providing additional functionality.
 
-* **Follow/Unfollow people.** Following on the Lens Protocol differs from following in Web2 social applications. When users follow a profile on the Lens Protocol, they are given a Follow NFT, which creators and communities can encode with additional value.
+- **Discover and use Tags.** When a user posts a publication they will be able to add Tags to it. When exploring through the feed people can filter the posts selecting the tags of their interest. Stay up to date with what you are interested in by filtering by Tags!
 
-* **Collect posts.** When a user posts a publication to their profile they have the option to set a Collect Module. This module will allow other users to mint NFTs that link to the publication's content. Do you want to save a post to read later or because its useful? Collect it!
+- **Follow/Unfollow people.** Following on the Lens Protocol differs from following in Web2 social applications. When users follow a profile on the Lens Protocol, they are given a Follow NFT, which creators and communities can encode with additional value.
 
-* **Organize your collects.** Tired of seeing your collections on Lens all cluttered and shuffled around? Now you can organize your collects in 'Lists'. Reading lists, favorite lists, guides, recipes, you name it.
+- **Collect posts.** When a user posts a publication to their profile they have the option to set a Collect Module. This module will allow other users to mint NFTs that link to the publication's content. Do you want to save a post to read later or because its useful? Collect it!
 
-* **Read from verified curators.** Users with certain expertise in a particular topic will have a custom 'Badge' as proof of their knowledge and reliability (Advocates, team members of a project , etc).
+- **Organize your collects.** Tired of seeing your collections on Lens all cluttered and shuffled around? Now you can organize your collects in 'Lists'. Reading lists, favorite lists, guides, recipes, you name it.
+
+- **Read from verified curators.** Users with certain expertise in a particular topic will have a custom 'Badge' as proof of their knowledge and reliability (Advocates, team members of a project , etc).
 
 ## Built With
 
-* [Typescript](https://www.typescriptlang.org)
-* [NextJS](https://nextjs.org)
-* [Lens Protocol](https://docs.lens.xyz/docs)
-* [Apollo/GraphQL](https://www.apollographql.com)
-* [TailwindCSS](https://tailwindcss.com)
-* [RainbowKit](https://www.rainbowkit.com)
-* [IPFS](https://ipfs.tech)
+- [Typescript](https://www.typescriptlang.org)
+- [NextJS](https://nextjs.org)
+- [Lens Protocol](https://docs.lens.xyz/docs)
+- [Apollo/GraphQL](https://www.apollographql.com)
+- [TailwindCSS](https://tailwindcss.com)
+- [RainbowKit](https://www.rainbowkit.com)
+- [IPFS](https://ipfs.tech)
+- [OpenAI](https://www.openai.com/)
+- [LinkPreview](https://www.linkpreview.net)
 
 ## Contributors
 
